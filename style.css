@@ -1,0 +1,32 @@
+#digital-showroom {
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+  }
+  
+  #tile-selector {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+  }
+  
+  #tile-select {
+    width: 150px;
+  }
+  
+  .tile-wood {
+    background-color: brown;
+  }
+  
+  .tile-stone {
+    background-color: gray;
+  }
+  
+  .tile-marble {
+    background-color: white;
+  }
+  
+  .tile-ceramic {
+    background-color: orange;
+  }
+  
